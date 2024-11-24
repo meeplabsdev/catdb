@@ -7,10 +7,6 @@
   ],
   "images": [
     {
-<<<<<<< HEAD
-      "file": "https://github.com/meeplabsdev/catdb/blob/main/images/00092f6ec7a911e1be6a12313820455d_7.png?raw=true",
-      "tags": ["curious"]
-=======
       "file": "https://github.com/meeplabsdev/catdb/blob/main/images/135651895831608977_13147478.jpg?raw=true",
       "tags": []
     },
@@ -2169,7 +2165,6 @@
     {
       "file": "https://github.com/meeplabsdev/catdb/blob/main/images/kublai9.jpg?raw=true",
       "tags": []
->>>>>>> d034f8d (add images to meta and script autoadd)
     }
   ],
   "enjoys": [
