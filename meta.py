@@ -17,6 +17,11 @@ for num, i in enumerate(images):
         subprocess.run(["/usr/bin/kitty", "icat", os.path.abspath(f"images/{i}")])
         print(f"{num+1} of {len(images)}")
         tags = input("Tags (comma-separated): ").strip().split(",")
+
+        if len(tags) == 1 and tags[0] == "":
+            os.remove(f"images/{i}")
+            tags = []
+
         if len(tags) > 0:
             meta["images"].append({"file": url, "tags": tags})
 
