@@ -1,14 +1,12 @@
 {
   "tags": [
-    "cat",
-    "many",
     "human",
+    "many",
+    "cat",
     "kitty",
-    "chicken",
-    "kittu",
     "dog",
     "puppy",
-    "pupy"
+    "chicken"
   ],
   "images": [
     {
@@ -3392,7 +3390,7 @@
       "file": "https://github.com/meeplabsdev/catdb/blob/main/images/our-sweet-boy-pippin-when-we-got-him-at-2-3-months-old-and-v0-erf5a04lb33e1.webp?raw=true",
       "tags": [
         "cat",
-        "kittu"
+        "kitty"
       ]
     },
     {
@@ -3822,7 +3820,7 @@
       "file": "https://github.com/meeplabsdev/catdb/blob/main/images/i-love-maple-so-much-ive-even-forgiven-him-for-tearing-up-v0-fxa661tdsv2e1.webp?raw=true",
       "tags": [
         "cat",
-        "kittu"
+        "kitty"
       ]
     },
     {
@@ -4084,7 +4082,7 @@
       "file": "https://github.com/meeplabsdev/catdb/blob/main/images/good-boy-7-weeks-v0-cn82nbezt13e1.webp?raw=true",
       "tags": [
         "dog",
-        "pupy"
+        "puppy"
       ]
     },
     {
