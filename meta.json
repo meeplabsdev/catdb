@@ -1,7 +1,7 @@
 {
   "tags": [
     "human",
-    "many",
+    "group",
     "cat",
     "kitty",
     "dog",
@@ -85,14 +85,14 @@
       "file": "https://github.com/meeplabsdev/catdb/blob/main/images/174999777820755196_274560.jpg?raw=true",
       "tags": [
         "cat",
-        "many"
+        "group"
       ]
     },
     {
       "file": "https://github.com/meeplabsdev/catdb/blob/main/images/175000098466907394_274560.jpg?raw=true",
       "tags": [
         "cat",
-        "many"
+        "group"
       ]
     },
     {
@@ -124,7 +124,7 @@
       "file": "https://github.com/meeplabsdev/catdb/blob/main/images/191898024226176629_801646.jpg?raw=true",
       "tags": [
         "cat",
-        "many"
+        "group"
       ]
     },
     {
@@ -188,7 +188,7 @@
       "file": "https://github.com/meeplabsdev/catdb/blob/main/images/208206448545532617_6720033.jpg?raw=true",
       "tags": [
         "cat",
-        "many"
+        "group"
       ]
     },
     {
@@ -544,7 +544,7 @@
       "file": "https://github.com/meeplabsdev/catdb/blob/main/images/301873127448210177_2104697.jpg?raw=true",
       "tags": [
         "cat",
-        "many",
+        "group",
         "kitty"
       ]
     },
@@ -704,7 +704,7 @@
       "tags": [
         "cat",
         "human",
-        "many"
+        "group"
       ]
     },
     {
@@ -712,7 +712,7 @@
       "tags": [
         "cat",
         "human",
-        "many"
+        "group"
       ]
     },
     {
@@ -1017,7 +1017,7 @@
       "file": "https://github.com/meeplabsdev/catdb/blob/main/images/453772318510005470_22268182.jpg?raw=true",
       "tags": [
         "cat",
-        "many"
+        "group"
       ]
     },
     {
@@ -1030,7 +1030,7 @@
       "file": "https://github.com/meeplabsdev/catdb/blob/main/images/455363860522949706_7010342.jpg?raw=true",
       "tags": [
         "cat",
-        "many"
+        "group"
       ]
     },
     {
@@ -1200,7 +1200,7 @@
       "file": "https://github.com/meeplabsdev/catdb/blob/main/images/479168388182162507_22268182.jpg?raw=true",
       "tags": [
         "cat",
-        "many"
+        "group"
       ]
     },
     {
@@ -1505,7 +1505,7 @@
       "file": "https://github.com/meeplabsdev/catdb/blob/main/images/520074927475878680_2104697.jpg?raw=true",
       "tags": [
         "cat",
-        "many"
+        "group"
       ]
     },
     {
@@ -1518,7 +1518,7 @@
       "file": "https://github.com/meeplabsdev/catdb/blob/main/images/520077637994507080_2104697.jpg?raw=true",
       "tags": [
         "cat",
-        "many",
+        "group",
         "kitty"
       ]
     },
@@ -1532,7 +1532,7 @@
       "file": "https://github.com/meeplabsdev/catdb/blob/main/images/522447304729649307_9544439.jpg?raw=true",
       "tags": [
         "cat",
-        "many"
+        "group"
       ]
     },
     {
@@ -1685,7 +1685,7 @@
       "tags": [
         "cat",
         "human",
-        "many"
+        "group"
       ]
     },
     {
@@ -1748,7 +1748,7 @@
       "file": "https://github.com/meeplabsdev/catdb/blob/main/images/560114719405862246_87522.jpg?raw=true",
       "tags": [
         "cat",
-        "many"
+        "group"
       ]
     },
     {
@@ -1769,7 +1769,7 @@
       "tags": [
         "cat",
         "human",
-        "many"
+        "group"
       ]
     },
     {
@@ -1869,7 +1869,7 @@
       "file": "https://github.com/meeplabsdev/catdb/blob/main/images/576811695133287091_128447.jpg?raw=true",
       "tags": [
         "cat",
-        "many",
+        "group",
         "kitty"
       ]
     },
@@ -1994,7 +1994,7 @@
       "tags": [
         "cat",
         "human",
-        "many"
+        "group"
       ]
     },
     {
@@ -2156,7 +2156,7 @@
       "file": "https://github.com/meeplabsdev/catdb/blob/main/images/3f65914ca43711e1abb01231382049c1_7.png?raw=true",
       "tags": [
         "cat",
-        "many"
+        "group"
       ]
     },
     {
@@ -2164,7 +2164,7 @@
       "tags": [
         "cat",
         "human",
-        "many"
+        "group"
       ]
     },
     {
@@ -2306,7 +2306,7 @@
       "file": "https://github.com/meeplabsdev/catdb/blob/main/images/8a7a7bc2d76b11e195351231381b651f_7.png?raw=true",
       "tags": [
         "human",
-        "many"
+        "group"
       ]
     },
     {
@@ -3228,7 +3228,7 @@
       "file": "https://github.com/meeplabsdev/catdb/blob/main/images/i-got-this-baby-only-two-days-ago-and-were-still-thinking-v0-owi4olql723e1.webp?raw=true",
       "tags": [
         "cat",
-        "many",
+        "group",
         "kitty"
       ]
     },
@@ -3289,7 +3289,7 @@
       "file": "https://github.com/meeplabsdev/catdb/blob/main/images/the-copy-is-correct-there-is-no-need-to-say-that-he-is-a-v0-pzr31lqo0y2e1.webp?raw=true",
       "tags": [
         "cat",
-        "many",
+        "group",
         "kitty"
       ]
     },
@@ -3526,7 +3526,7 @@
       "file": "https://github.com/meeplabsdev/catdb/blob/main/images/our-newest-boy-teddy-still-has-a-fair-amount-of-anxiety-v0-9t56nlrmb23e1.webp?raw=true",
       "tags": [
         "cat",
-        "many"
+        "group"
       ]
     },
     {
@@ -3613,14 +3613,14 @@
       "file": "https://github.com/meeplabsdev/catdb/blob/main/images/bestest-of-friends-v0-po9yzkf0mx2e1.webp?raw=true",
       "tags": [
         "cat",
-        "many"
+        "group"
       ]
     },
     {
       "file": "https://github.com/meeplabsdev/catdb/blob/main/images/dinner-time-v0-7jpjofc8k13e1.webp?raw=true",
       "tags": [
         "cat",
-        "many"
+        "group"
       ]
     },
     {
@@ -3897,7 +3897,7 @@
         "cat",
         "kitty",
         "human",
-        "many"
+        "group"
       ]
     },
     {
@@ -3992,7 +3992,7 @@
       "file": "https://github.com/meeplabsdev/catdb/blob/main/images/on-a-scale-of-1-to-orange-rate-my-cats-v0-tm6bkire1u2e1.webp?raw=true",
       "tags": [
         "cat",
-        "many"
+        "group"
       ]
     },
     {
@@ -4183,7 +4183,7 @@
       "tags": [
         "dog",
         "puppy",
-        "many"
+        "group"
       ]
     },
     {
@@ -4205,7 +4205,7 @@
       "tags": [
         "dog",
         "puppy",
-        "many"
+        "group"
       ]
     },
     {
@@ -4254,7 +4254,7 @@
       "file": "https://github.com/meeplabsdev/catdb/blob/main/images/11-month-old-mini-golden-doodles-v0-dg2ojxb2r33e1.webp?raw=true",
       "tags": [
         "dog",
-        "many"
+        "group"
       ]
     },
     {
@@ -4577,7 +4577,7 @@
       "tags": [
         "cat",
         "kitty",
-        "many"
+        "group"
       ]
     },
     {
@@ -4585,7 +4585,7 @@
       "tags": [
         "cat",
         "kitty",
-        "many"
+        "group"
       ]
     },
     {
@@ -4864,7 +4864,7 @@
       "file": "https://github.com/meeplabsdev/catdb/blob/main/images/please-send-help-im-starving-and-dehydrated-but-i-cannot-v0-61gh9fdar43e1.webp?raw=true",
       "tags": [
         "cat",
-        "many"
+        "group"
       ]
     },
     {
